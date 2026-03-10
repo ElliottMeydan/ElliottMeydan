@@ -3,4 +3,5 @@
 ### Knowledgeable in:
 * Python
 * Luau
+* SQL
 ## Heavy Metal and Video Game enjoyer :) 
