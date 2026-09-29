@@ -4,4 +4,5 @@ Knowledgeable in:
 * Python
 * Lua
 * SQL
+* Java
 ## Heavy Metal and Video Game enjoyer :) 
